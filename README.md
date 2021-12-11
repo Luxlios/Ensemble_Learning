@@ -1,0 +1,2 @@
+# Ensemble-Learning
+以KNN和SVM作为弱分类器，利用Bagging和Boosting进行集成学习
